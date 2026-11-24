@@ -6,6 +6,7 @@ if __name__ == '__main__':
      print(i,end='')
 
 2.multiple operations
+
 n = int(input())
 A = set(map(int, input().split()))
 N = int(input())
